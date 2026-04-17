@@ -116,7 +116,7 @@ Tambahkan screenshot berikut:
 
 * Halaman utama artikel
   
-  <img src="gambar/1.png" width="500"/>
+<img src="gambar/1.png" width="500"/>
   
 * Detail artikel
 
@@ -128,11 +128,11 @@ Tambahkan screenshot berikut:
 
 * Form tambah artikel
 
-<img src="gambar/4.png" width="500"/>
+<img src="gambar/5.png" width="500"/>
 
 * Form edit artikel
 
-<img src="gambar/5.png" width="500"/>
+<img src="gambar/4.png" width="500"/>
 
 
 ---
