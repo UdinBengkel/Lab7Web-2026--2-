@@ -82,19 +82,19 @@ Aplikasi ini digunakan untuk mengelola data artikel sederhana berbasis web.
 * URL: `/admin/artikel/add`
 * Input data artikel baru
 
-### ✏️ 5. Edit Artikel (Update)
+### 5. Edit Artikel (Update)
 
 * URL: `/admin/artikel/edit/{id}`
 * Mengubah data artikel
 
-### ❌ 6. Hapus Artikel (Delete)
+### 6. Hapus Artikel (Delete)
 
 * URL: `/admin/artikel/delete/{id}`
 * Menghapus artikel dari database
 
 ---
 
-## 🔀 Routing
+##  Routing
 
 ```php
 $routes->get('/artikel', 'Artikel::index');
